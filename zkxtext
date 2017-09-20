@@ -1,3 +1,14 @@
 static/admin/css/*.css
 static/admin/js/*.js
 static/admin/js/admin/*.js
+
+
+
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
+
+
+
